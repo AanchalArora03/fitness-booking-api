@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local secrets
+.env
+
+# Local SQLite databases
+*.db
+*.db-shm
+*.db-wal
+
+# Test output
+.pytest_cache/
+.coverage
+
+# macOS files
+.DS_Store
